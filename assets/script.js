@@ -1,9 +1,8 @@
 var topics = ["HTML", "CSS", "Javascript", "Git"];
 
 for(var i=0; i< topics.length; i++){
-    console.log(topics[i]);
+    console.log(topics[icd ]);
 }
-
 /* if(topic === "HTML"){
     console.log("let's study HTML");
 }else if( topic === "CSS"){
